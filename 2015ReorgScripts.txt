@@ -1,0 +1,22 @@
+1. renamed 'sf' schema to 'sourceforge'
+2. create 'alioth' schema
+3. moved al_* tables from 'ossmole_merged' to 'alioth'
+4. create 'freecode' schema
+5. moved fm_* tables from 'ossmole_merged' to 'freecode'
+6. create 'free_software_foundation' schema
+7. moved fsf_* tables from 'ossmole_merged' to 'free_software_foundation'
+8. create 'github' schema
+9. moved gh_* tables from 'ossmole_merged' to 'github'
+10. create 'google_code' schema
+11. moved gc_* tables from 'ossmole_merged' to 'google_code'
+12. create 'launchpad' schema
+13. moved lpd_* tables from 'ossmole_merged' to 'launchpad'
+14. create 'objectweb' schema
+15. moved ow_* tables from 'ossmole_merged' to 'objectweb'
+16. create 'rubyforge' schema
+17. moved rf_* tables from 'ossmole_merged' to 'rubyforge'
+18. create 'savannah' schema
+19. moved sv_* tables from 'ossmole_merged' to 'savannah'
+20. create 'tigris' schema
+21. moved tig_* tables from 'ossmole_merged' to 'tigris'
+22. updated all user permissions to new tables
