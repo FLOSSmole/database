@@ -20,3 +20,5 @@
 20. create 'tigris' schema
 21. moved tig_* tables from 'ossmole_merged' to 'tigris'
 22. updated all user permissions to new tables
+23. Changed datatypes of all time fields in apache_irc tables.
+
