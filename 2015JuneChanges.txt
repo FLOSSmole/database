@@ -25,4 +25,6 @@
 25. "" "" GNUe, GNUe_irc
 26. "" "" openstack, openstack_irc
 27. Changed datatypes of all time fields in apache_irc, django_irc, openstack_irc, wp_irc and irc tables.
+28. change names on columns in perl6 irc table
+29. add new full_line_text column in perl6
 28. updated user permissions to all new irc schemas
