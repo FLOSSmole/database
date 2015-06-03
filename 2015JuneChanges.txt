@@ -20,8 +20,9 @@
 20. create 'tigris' schema
 21. moved tig_* tables from 'ossmole_merged' to 'tigris'
 22. updated all user permissions to new tables
-23. Changed datatypes of all time fields in apache_irc tables.
-24. split out apache irc tables from inside the 'irc' schema into their own apache_irc schema
-25. "" "" wordpress, wp_irc
-26. "" "" GNUe, GNUe_irc
-27. "" "" openstack, openstack_irc
+23. split out apache irc tables from inside the 'irc' schema into their own apache_irc schema
+24. "" "" wordpress, wp_irc
+25. "" "" GNUe, GNUe_irc
+26. "" "" openstack, openstack_irc
+27. Changed datatypes of all time fields in apache_irc, django_irc, openstack_irc, wp_irc and irc tables.
+28. updated user permissions to all new irc schemas
